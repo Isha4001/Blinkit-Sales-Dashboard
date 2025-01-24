@@ -4,7 +4,7 @@
 To conduct a comprehensive analysis of Blinkit's sales performance , customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
 ## DATASET USED
-
+- <a href="https://github.com/Isha4001/Blinkit-Sales-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">DataSet</a>
 
 ## KPIs REQUIREMENTS
 1. Total Sales: The overall revenue generated from all items sold.
