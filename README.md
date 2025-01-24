@@ -30,3 +30,11 @@ To conduct a comprehensive analysis of Blinkit's sales performance , customer sa
 ## DASHBOARD
 ![Dashboard_screenshot](https://github.com/user-attachments/assets/581682df-29b0-42a4-89ba-e71d81d7313d)
 
+## PROJECT INSIGHT
+* A total sale of $1.20M was achieved by selling 8,523 items through Blinkit.
+* Customers have given an average rating of 4.0.
+* Medium-sized outlets account for the highest sales, contributing approximately 42% of the total.
+* Outlets located in Tier 1 cities contribute the most to overall sales.
+* Low-fat items generate a larger share of total sales compared to regular items.
+* The Top-3 item categories contributing to the highest sales are fruits and vegetables, snack foods, and household items.
+* Outlets established in 2018 recorded the highest sales figures.
