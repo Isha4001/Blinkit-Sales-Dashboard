@@ -28,5 +28,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance , customer sa
 * Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## DASHBOARD
+![Dashboard_screenshot](https://github.com/user-attachments/assets/581682df-29b0-42a4-89ba-e71d81d7313d)
 
-  
