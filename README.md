@@ -38,3 +38,6 @@ To conduct a comprehensive analysis of Blinkit's sales performance , customer sa
 * Low-fat items generate a larger share of total sales compared to regular items.
 * The Top-3 item categories contributing to the highest sales are fruits and vegetables, snack foods, and household items.
 * Outlets established in 2018 recorded the highest sales figures.
+
+## FINAL CONCLUSION
+The business should focus on expanding medium-sized outlets in high-demand areas, prioritizing Tier 1 cities with targeted marketing and delivery partnerships. Promoting low-fat products through new offerings and discounts will cater to health-conscious customers. Strengthening supply chains and diversifying top-performing categories like fruits, vegetables, and snack foods will further drive growth.
